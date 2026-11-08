@@ -1,0 +1,20 @@
+[general]
+name=Smart Name Join
+qgisMinimumVersion=3.28
+qgisMaximumVersion=4.99
+supportsQt6=True
+description=Join a table to a layer when the names are spelled differently - fuzzy matching plus optional AI.
+about=Normal joins need identical text, so "Thiruvallur" never meets "Tiruvallur", "Ooty" never meets "Udhagamandalam" and "Chengalpattu district" never meets "Chengalpattu". Worse, an exact join silently picks the wrong village when two places share a name. Smart Name Join matches in steps - exact, normalized, transliteration key, fuzzy score - and can hand only the hard rows to an AI (Ollama locally, any OpenAI-compatible API, the Claude API or Claude Code). The AI can only choose among real features of your layer, never invent one. Every row says how it was matched, the score, the reason and other options, and doubtful rows are marked for review. Works offline and free with no AI. No extra Python packages needed.
+version=0.1.0
+author=TechStackSpatial
+email=geoapihub@gmail.com
+category=Vector
+icon=icon.svg
+tags=join,fuzzy,match,names,geocoding,attribute,ai,llm,ollama,claude,india,transliteration
+homepage=https://github.com/GeoAPI-Hub/smart-name-join
+repository=https://github.com/GeoAPI-Hub/smart-name-join
+tracker=https://github.com/GeoAPI-Hub/smart-name-join/issues
+experimental=True
+deprecated=False
+hasProcessingProvider=yes
+changelog=0.1.0 first release

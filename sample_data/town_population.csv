@@ -1,0 +1,284 @@
+row_id,town,district,population
+1,Ālangudi,Pudukkottai,12367
+2,Alwa Tirunagari,Thoothukkudi,9289
+3,Singampunari,Sivaganga,18143
+4,Sathyamangalam,Erode,37816
+5,Tisaiyanvilai,Tirunelveli Kattabo,23702
+6,Ammāpattinam,Pudukkottai,6652
+7,Mayiladuthurai,Mayiladuthurai district,86660
+8,Kattivākkam,Chennai,36617
+9,Anaimalai,Coimbatore,17208
+10,Māllūr,Salem,10524
+11,Sathankulam,Thoothukkudi,14193
+12,Coonoor,Nilgiris,45494
+13,Nambiyūr,Erode,16379
+14,Kovilpatti,Thoothukkudi,95057
+15,Pennādam,Cuddalore,19494
+16,Alandur,Chengalpattu district,164430
+17,Chettipālaiyam,Coimbatore,24080
+18,Mārāndahalli,Dharmapuri,12451
+19,Valparai,Coimbatore,90353
+20,Ambur,Tirupattur district,114608
+21,Hosūr,Krishnagiri,229528
+22,Sivaganga,Sivaganga,42785
+23,Kāramadai,Coimbatore,35166
+24,Karur,Karur,234191
+25,Valavanur,Villupuram,16745
+26,Palladam,Tiruppur,42225
+27,Gangaikondān,Tirunelveli Kattabo,10779
+28,Nāgercoil,Kanniyakumari,224849
+29,Kodavasal,Thiruvarur,14639
+30,Vattalkundu,Dindigul,22928
+31,Nilakottai,Dindigul,22197
+32,Kodaikānāl,Dindigul,36501
+33,Mallasamudram,Namakkal,18820
+34,Rameswaram,Rāmanāthapuram,44856
+35,Nāmakkal,Namakkal,55997
+36,Arumuganeri,Thoothukkudi,27266
+37,Yercaud,Salem,11582
+38,Thiruthuraipoondi,Thiruvarur,24404
+39,Attur,Salem,61793
+40,Usilampatti,Madurai,35219
+41,Periyakulam,Theni,42976
+42,Gingee,Villupuram,27045
+43,Mannargudi,Thiruvarur,66999
+44,Virudunagar,Virudhunagar,73273
+45,Kulittalai,Karur,27910
+46,Kadambūr,Thoothukkudi,4512
+47,Belūr,Salem,9281
+48,Thiruvidaimaruthur,Thanjavur,14786
+49,Pattukkottai,Thanjavur,73135
+50,Madhavaram,Chennai,119105
+51,Vandavāsi,Tiruvannamalai,31530
+52,Harūr,Dharmapuri,25469
+53,Chidambaram,Cuddalore,62153
+54,Sulur,Coimbatore,27909
+55,Chennimalai,Erode,16268
+56,Udumalaippettai,Tiruppur,61133
+57,Ponneri,Thiruvallur,31025
+58,Peraiyur,Madurai,10394
+59,Puliyankudi,Tenkasi district,66034
+60,Tiruvankod,Kanniyakumari,18723
+61,Vikravāndi,Villupuram,12022
+62,Kuttālam,Tenkasi district,2440
+63,Kayalpattinam,Thoothukkudi,40588
+64,Kanniyākumāri,Kanniyakumari,22453
+65,Karambakkudi,Pudukkottai,14626
+66,Villupuram,Villupuram,97380
+67,Pudukkottai,Pudukkottai,117630
+68,Natham,Dindigul,23660
+69,Kalakkādu,Tirunelveli Kattabo,30921
+70,Sīrkāzhi,Mayiladuthurai district,34927
+71,Pallipalayam,Namakkal,40140
+72,Arantāngi,Pudukkottai,40814
+73,Chengam,Tiruvannamalai,26980
+74,Aruppukkottai,Virudhunagar,87722
+75,Kotagiri,Nilgiris,28848
+76,Pallāvaram,Chengalpattu district,233984
+77,Ooty,Nilgiris,233426
+78,Thoothukudi,Thoothukkudi,410760
+79,Devipattinam,Rāmanāthapuram,11599
+80,Auroville,Villupuram,2000
+81,Arimalam,Pudukkottai,8948
+82,Anjugramam,Tirunelveli Kattabo,10982
+83,Tondi,Rāmanāthapuram,18465
+84,Perūr,Coimbatore,8341
+85,Padmanābhapuram,Kanniyakumari,21342
+86,Mahabalipuram,Chengalpattu district,15172
+87,Attayampatti,Salem,13852
+88,Sattur,Virudhunagar,31856
+89,Ambasamudram,Tirunelveli Kattabo,35645
+90,Vallam,Thanjavur,16758
+91,Anthiyur,Erode,21086
+92,Tambaram,Chengalpattu district,174787
+93,Kāraikkudi,Sivaganga,181851
+94,Kāveripatnam,Krishnagiri,15006
+95,Manamadurai,Sivaganga,32257
+96,Madurai,Madurai,1465625
+97,Mīnjūr,Thiruvallur,28337
+98,Pāmban,Rāmanāthapuram,30926
+99,Nannilam,Thiruvarur,12618
+100,Mandapam,Rāmanāthapuram,18427
+101,Kīranūr,Pudukkottai,11667
+102,Krishnagiri,Krishnagiri,71323
+103,Velur,Namakkal,25012
+104,Palani,Dindigul,70467
+105,Madurāntakam,Chengalpattu district,30796
+106,Kumarapalayam,Namakkal,195071
+107,Srīmushnam,Cuddalore,13971
+108,Suchindram,Kanniyakumari,13193
+109,Chengalpattu,Chengalpattu district,65689
+110,Tāramangalam,Salem,30222
+111,Cheyyar,Tiruvannamalai,37802
+112,Srīperumbūdūr,Kancheepuram,24864
+113,Vedasandūr,Dindigul,12493
+114,Lalgudi,Tiruchirappalli,23740
+115,Ponnamarāvati,Pudukkottai,12676
+116,Dhali,Tiruppur,6494
+117,Kumaralingam,Tiruppur,13642
+118,Mettur,Salem,56743
+119,Avinashi,Tiruppur,28868
+120,Colachel,Kanniyakumari,23227
+121,Jayamkondacholapuram,Ariyalur,33945
+122,Thanjavur,Thanjavur,291067
+123,Gangavalli,Salem,12015
+124,Pannaikadu,Dindigul,8731
+125,Marakkanam,Villupuram,22034
+126,Vettaikkaranpudur,Coimbatore,18128
+127,Gudiyatham,Vellore,93973
+128,Pallikonda,Vellore,23067
+129,Sholavandan,Madurai,22578
+130,Vilattikulam,Thoothukkudi,15277
+131,Paramagudi,Rāmanāthapuram,95579
+132,Orathanadu,Thanjavur,10247
+133,Wālājābād,Kancheepuram,14684
+134,Kalavai,Ranipet district,10057
+135,Chinnamanūr,Theni,42305
+136,Mohanūr,Namakkal,14315
+137,Koothanallur,Thiruvarur,25423
+138,Vaniyambadi,Tirupattur district,95061
+139,Perundurai,Erode,24930
+140,Tirunelveli,Tirunelveli Kattabo,1435844
+141,Ālangulam,Tenkasi district,28558
+142,Udangudi,Thoothukkudi,19738
+143,Swāmimalai,Thanjavur,7289
+144,Tharangambadi,Mayiladuthurai district,23191
+145,Ariyalūr,Ariyalur,29144
+146,Kayattār,Thoothukkudi,10400
+147,Tindivanam,Villupuram,72796
+148,Madukkūr,Thanjavur,16266
+149,Coimbatore,Coimbatore,2136916
+150,Parangipettai,Cuddalore,25541
+151,Gūduvāncheri,Chengalpattu district,44098
+152,Panruti,Cuddalore,60323
+153,Perumānallūr,Tiruppur,7356
+154,Kadayanallur,Tenkasi district,90364
+155,Singapperumālkovil,Chengalpattu district,13566
+156,Tirupparangunram,Madurai,50004
+157,Denkanikota,Krishnagiri,24252
+158,Samayapuram,Tiruchirappalli,5502
+159,Tiruchengode,Namakkal,95335
+160,Bargūr,Krishnagiri,16366
+161,Sivagiri,Erode,16779
+162,Arcot,Ranipet district,55955
+163,Kanchipuram,Kancheepuram,221715
+164,Erode,Erode,521891
+165,Kumbakonam,Thanjavur,167155
+166,Bodināyakkanūr,Theni,75680
+167,Kalugumalai,Thoothukkudi,15423
+168,Koradacheri,Thiruvarur,6450
+169,Kallidaikurichi,Tirunelveli Kattabo,26398
+170,Vriddhāchalam,Cuddalore,61498
+171,Chennai,Chennai,4681087
+172,Alangāyam,Tirupattur district,18327
+173,Tiruchirappalli,Tiruchirappalli,1022518
+174,Periyanegamam,Coimbatore,7913
+175,Mullippattu,Tiruvannamalai,4956
+176,Vadipatti,Madurai,26830
+177,Eraniel,Kanniyakumari,10375
+178,Adirampattinam,Thanjavur,31066
+179,Punjai Puliyampatti,Erode,18967
+180,Dharapuram,Tiruppur,72291
+181,Salem,Salem,917414
+182,Pennāgaram,Dharmapuri,17480
+183,Srivaikuntam,Thoothukkudi,15847
+184,Annur,Coimbatore,20079
+185,Arni,Tiruvannamalai,63671
+186,Tiruppuvanam,Sivaganga,24554
+187,Kangayam,Tiruppur,32147
+188,Needamangalam,Thiruvarur,9336
+189,Ambattur,Thiruvallur,466205
+190,Cumbum,Theni,68090
+191,Tiruchchendur,Thoothukkudi,32171
+192,Thenkasi,Tenkasi district,70545
+193,Sankagiri,Salem,29467
+194,Ramanathapuram,Rāmanāthapuram,65314
+195,Ulundurpet,Kallakurichi district,23734
+196,Eral,Thoothukkudi,9478
+197,Sivakasi,Virudhunagar,234704
+198,Vadakku Viravanallur,Tirunelveli Kattabo,19689
+199,Dindigul,Dindigul,292512
+200,Iluppūr,Pudukkottai,14127
+201,Tinnanūr,Thiruvallur,37095
+202,Melur,Madurai,40017
+203,Tiruvottiyūr,Chennai,249446
+204,Neyveli,Cuddalore,179150
+205,Manapparai,Tiruchirappalli,40510
+206,Gudalur,Nilgiris,49535
+207,kembanur,Coimbatore,500
+208,Turaiyūr,Tiruchirappalli,32134
+209,Uthukkottai,"",12740
+210,Vijayapuri,Erode,7222
+211,Kamuthi,Rāmanāthapuram,14754
+212,Thiruthani,Thiruvallur,44781
+213,Puliyūr,Pudukkottai,11174
+214,Thiruvaiyaru,Thanjavur,16164
+215,Kallakkurichchi,Kallakurichi district,40449
+216,Nazareth,Thoothukkudi,16584
+217,Gummidipundi,Thiruvallur,18891
+218,Madukkarai,Coimbatore,30357
+219,Walajapet,Ranipet district,47498
+220,Pollachi,Coimbatore,90180
+221,Kuzhithurai,Kanniyakumari,21307
+222,Tirukkoyilur,Kallakurichi district,30212
+223,Ilampillai,Salem,11797
+224,Nangavalli,Salem,10809
+225,Kāttupputtūr,Tiruchirappalli,11040
+226,Uttamapālaiyam,Theni,29050
+227,Veeraganur,Salem,11624
+228,Tāttayyangārpettai,Tiruchirappalli,12980
+229,Devadanapatti,Theni,19285
+230,Ettaiyapuram,Thoothukkudi,12956
+231,Arakkonam,Ranipet district,79080
+232,Kilakarai,Rāmanāthapuram,38355
+233,Kodumudi,Erode,13225
+234,Odugattūr,Vellore,8998
+235,Pudūr,Thoothukkudi,8891
+236,Karumbākkam,Chengalpattu district,11992
+237,Kattumannarkoil,Cuddalore,27294
+238,Polūr,Tiruvannamalai,28123
+239,Muthupet,Thiruvarur,21722
+240,Sawyerpuram,Thoothukkudi,12792
+241,Thiruvarur,Thiruvarur,58777
+242,Peranāmpattu,Vellore,51271
+243,Jalakandapuram,Salem,16184
+244,Sūrandai,Tenkasi district,35272
+245,Nanguneri,Tirunelveli Kattabo,6969
+246,Nagapattinam,Nagapattinam,102905
+247,Devakottai,Sivaganga,51865
+248,Tiruvannamalai,Tiruvannamalai,145278
+249,Kanadukattan,Sivaganga,5275
+250,Virālimalai,Pudukkottai,10883
+251,Abirāmam,Rāmanāthapuram,8144
+252,Tiruppur,Tiruppur,963173
+253,Vedaraniyam,Nagapattinam,34266
+254,Valangaiman,Thiruvarur,11754
+255,Perambalur,Perambalur,49648
+256,Vellore,Vellore,484690
+257,Srivilliputhur,Virudhunagar,75396
+258,Vikramasingapuram,Tirunelveli Kattabo,47241
+259,Gobichettipalayam,Erode,59523
+260,Tiruvallur,Thiruvallur,56074
+261,Papanasam,Thanjavur,17548
+262,Kelamangalam,Krishnagiri,13321
+263,Pallipattu,Thiruvallur,8912
+264,Musiri,Tiruchirappalli,30209
+265,Avadi,Thiruvallur,345996
+266,Dharmapuri,Dharmapuri,68619
+267,Pullambādi,Tiruchirappalli,10288
+268,Sirumugai,Coimbatore,20066
+269,Samayanallūr,Madurai,9227
+270,Chinna Salem,Kallakurichi district,25106
+271,Pāpireddippatti,Dharmapuri,9369
+272,Omalur,Salem,16279
+273,Annavāsal,Pudukkottai,8906
+274,Poonamalle,Thiruvallur,60607
+275,Rānipet,Ranipet district,264330
+276,Sholinghur,Ranipet district,30856
+277,Thottiyam,Tiruchirappalli,14909
+278,Idappadi,Salem,54823
+279,Manali,Chennai,35248
+280,Rajapalayam,Virudhunagar,130442
+281,Nellikkuppam,Cuddalore,46678
+282,Jalārpet,Tirupattur district,40959
+283,Bhavāni,Erode,39744
